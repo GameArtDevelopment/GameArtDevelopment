@@ -23,8 +23,6 @@
 <p align="left">
 <a href="https://codepen.io/jmp911" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jmp911" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21020610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21020610" height="30" width="40" /></a>
-<a href="https://dribbble.com/josephprez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="josephprez" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/josephprez" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="josephprez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
