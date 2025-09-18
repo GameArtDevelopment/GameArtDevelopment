@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://thumbs.dreamstime.com/b/frontend-development-web-banner-concept-website-interface-frontend-development-web-banner-concept-website-interface-design-159250288.jpg)](https://enjoytheridestudio.com)-->
-<h1 align="center">Hi, I'm Joseph Prez</h1>
+<h1 align="center">Hi, I'm Jose Perez</h1>
 <h3 align="center">An IT and Frontend Student</h3>
 <img align=“right” alt=“Front-End-Development” width=“400” src=“https://media.tenor.com/sfp8nf9UrZcAAAAM/uwu-cat.gif”>
 
