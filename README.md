@@ -1,5 +1,7 @@
 <!-- Banner -->
-![Banner](https://thumbs.dreamstime.com/b/frontend-development-web-banner-concept-website-interface-frontend-development-web-banner-concept-website-interface-design-159250288.jpg)
+<p align="center">
+  <img src="https://thumbs.dreamstime.com/b/frontend-development-web-banner-concept-website-interface-frontend-development-web-banner-concept-website-interface-design-159250288.jpg" alt="Banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Jose Perez</h1>
 
