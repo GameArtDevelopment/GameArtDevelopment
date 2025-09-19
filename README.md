@@ -2,7 +2,20 @@
 ![Banner](https://thumbs.dreamstime.com/b/frontend-development-web-banner-concept-website-interface-frontend-development-web-banner-concept-website-interface-design-159250288.jpg)
 
 <h1 align="center">Hi 👋, I'm Jose Perez</h1>
-<h3 align="center">🌐 IT Management Student | 🎨 Frontend Learner | 🎮 Aspiring Game Developer</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0EA5FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+in+Training;IT+Management+Student;Unity+Game+Dev+Learner;Pixel+Artist+%7C+Cyclist" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🚀-IT%20Student-blue" />
+  <img src="https://img.shields.io/badge/🎨-Pixel%20Artist-yellow" />
+  <img src="https://img.shields.io/badge/🎮-Unity%20Dev-white" />
+  <img src="https://img.shields.io/badge/🌱-Frontend%20Learner-blue" />
+  <img src="https://img.shields.io/badge/🚴-Cyclist-yellow" />
+</p>
 
 ---
 
